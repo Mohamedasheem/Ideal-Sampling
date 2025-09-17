@@ -188,9 +188,9 @@ plt.show()
 
 
 
-```
+
 # Results
 ```
-Attach the output waveform
+Ideal ,Natural and Flat top the outputs are verified Succesfully
 ```
 # Hardware experiment output waveform.
